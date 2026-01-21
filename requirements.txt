@@ -2,7 +2,7 @@
 # These packages are intentionally set to older versions so Renovate can detect updates
 
 # Web framework
-flask==2.0.1
+flask==2.3.3
 requests==2.26.0
 
 # Data processing
