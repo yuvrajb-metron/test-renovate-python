@@ -17,10 +17,9 @@ This project contains intentionally outdated dependencies in `requirements.txt` 
 
 ## How to Use
 
-1. Push these files to your `packet-shark` repository
-2. Wait for Renovate to scan the repository (15-30 minutes without webhooks)
-3. Check for pull requests created by `metron-security-renovate[bot]`
-4. Renovate should create PRs to update the outdated packages
+1. Wait for Renovate to scan the repository (15-30 minutes without webhooks)
+2. Check for pull requests created by `metron-security-renovate[bot]`
+3. Renovate should create PRs to update the outdated packages
 
 ## Expected Behavior
 
